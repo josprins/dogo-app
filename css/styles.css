@@ -414,7 +414,8 @@ textarea {
     height: 1000px;
   }
   .card img {
-    height: 100%;
+    height: 500px;
+    width: auto;
   }
 
   
